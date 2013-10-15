@@ -4,3 +4,6 @@
 [submodule "plugins/redis"]
 	path = plugins/redis
 	url = git@github.com:graphdat/plugin-redis.git
+[submodule "plugins/cpu_core"]
+	path = plugins/cpu_core
+	url = git@github.com:graphdat/plugin-cpu_core.git
