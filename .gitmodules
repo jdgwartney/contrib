@@ -13,3 +13,6 @@
 [submodule "plugins/haproxy"]
 	path = plugins/haproxy
 	url = git@github.com:graphdat/plugin-haproxy.git
+[submodule "plugins/apache"]
+	path = plugins/apache
+	url = git@github.com:graphdat/plugin-apache.git
