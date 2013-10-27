@@ -7,3 +7,15 @@
 [submodule "plugins/cpu_core"]
 	path = plugins/cpu_core
 	url = git@github.com:graphdat/plugin-cpu_core.git
+[submodule "plugins/nginx"]
+	path = plugins/nginx
+	url = git@github.com:graphdat/plugin-nginx
+[submodule "plugins/haproxy"]
+	path = plugins/haproxy
+	url = git@github.com:graphdat/plugin-haproxy.git
+[submodule "plugins/apache"]
+	path = plugins/apache
+	url = git@github.com:graphdat/plugin-apache.git
+[submodule "plugins/twitter-stream"]
+	path = plugins/twitter-stream
+	url = git@github.com:graphdat/plugin-twitter-stream.git
