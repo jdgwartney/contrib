@@ -19,3 +19,6 @@
 [submodule "plugins/twitter-stream"]
 	path = plugins/twitter-stream
 	url = git@github.com:graphdat/plugin-twitter-stream.git
+[submodule "plugins/litespeed"]
+	path = plugins/litespeed
+	url = git@github.com:graphdat/plugin-litespeed.git
