@@ -22,3 +22,6 @@
 [submodule "plugins/litespeed"]
 	path = plugins/litespeed
 	url = git@github.com:graphdat/plugin-litespeed.git
+[submodule "plugins/memcached"]
+	path = plugins/memcached
+	url = git@github.com:graphdat/plugin-memcached.git
