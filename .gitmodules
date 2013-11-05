@@ -25,3 +25,6 @@
 [submodule "plugins/memcached"]
 	path = plugins/memcached
 	url = git@github.com:graphdat/plugin-memcached.git
+[submodule "plugins/mysql"]
+	path = plugins/mysql
+	url = git@github.com:graphdat/plugin-mysql.git
