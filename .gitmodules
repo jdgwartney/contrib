@@ -28,3 +28,6 @@
 [submodule "plugins/mysql"]
 	path = plugins/mysql
 	url = git@github.com:graphdat/plugin-mysql.git
+[submodule "plugins/mongo"]
+	path = plugins/mongo
+	url = git@github.com:graphdat/plugin-mongo.git
