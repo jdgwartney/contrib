@@ -34,3 +34,6 @@
 [submodule "plugins/process_cpu"]
 	path = plugins/process_cpu
 	url = git@github.com:graphdat/plugin-process_cpu.git
+[submodule "plugins/mongo"]
+	path = plugins/mongo
+	url = git@github.com:graphdat/plugin-mongo.git
