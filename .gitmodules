@@ -37,3 +37,9 @@
 [submodule "plugins/mongo"]
 	path = plugins/mongo
 	url = git@github.com:graphdat/plugin-mongo.git
+[submodule "plugins/httpcheck"]
+	path = plugins/httpcheck
+	url = git@github.com:graphdat/plugin-httpcheck.git
+[submodule "plugins/pingcheck"]
+	path = plugins/pingcheck
+	url = git@github.com:graphdat/plugin-pingcheck.git
