@@ -43,3 +43,6 @@
 [submodule "plugins/pingcheck"]
 	path = plugins/pingcheck
 	url = git@github.com:graphdat/plugin-pingcheck.git
+[submodule "plugins/conntrack"]
+	path = plugins/conntrack
+	url = git@github.com:graphdat/plugin-conntrack.git
