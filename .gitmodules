@@ -46,3 +46,6 @@
 [submodule "plugins/conntrack"]
 	path = plugins/conntrack
 	url = git@github.com:graphdat/plugin-conntrack.git
+[submodule "plugins/forkrate"]
+	path = plugins/forkrate
+	url = git@github.com:graphdat/plugin-forkrate.git
