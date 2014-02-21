@@ -49,3 +49,6 @@
 [submodule "plugins/forkrate"]
 	path = plugins/forkrate
 	url = git@github.com:graphdat/plugin-forkrate.git
+[submodule "plugins/hbase"]
+	path = plugins/hbase
+	url = git@github.com:graphdat/plugin-hbase.git
