@@ -52,3 +52,6 @@
 [submodule "plugins/hbase"]
 	path = plugins/hbase
 	url = git@github.com:graphdat/plugin-hbase.git
+[submodule "plugins/shell"]
+	path = plugins/shell
+	url = git@github.com:boundary/boundary-plugin-shell.git
