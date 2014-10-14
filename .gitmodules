@@ -58,3 +58,6 @@
 [submodule "plugins/aws_elb"]
 	path = plugins/aws_elb
 	url = git@github.com:boundary/boundary-plugin-aws-elb.git
+[submodule "plugins/rabbitmq"]
+	path = plugins/rabbitmq
+	url = git@github.com:boundary/boundary-plugin-rabbitmq.git
