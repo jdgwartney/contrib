@@ -61,3 +61,6 @@
 [submodule "plugins/rabbitmq"]
 	path = plugins/rabbitmq
 	url = git@github.com:boundary/boundary-plugin-rabbitmq.git
+[submodule "plugins/postgresql"]
+	path = plugins/postgresql
+	url = git@github.com:boundary/boundary-plugin-postgresql.git
