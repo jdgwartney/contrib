@@ -64,3 +64,6 @@
 [submodule "plugins/postgresql"]
 	path = plugins/postgresql
 	url = git@github.com:boundary/boundary-plugin-postgresql.git
+[submodule "plugins/aws_rds"]
+	path = plugins/aws_rds
+	url = git@github.com:boundary/boundary-plugin-aws-rds.git
