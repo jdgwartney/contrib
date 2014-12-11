@@ -64,3 +64,6 @@
 [submodule "plugins/postgresql"]
 	path = plugins/postgresql
 	url = git@github.com:boundary/boundary-plugin-postgresql.git
+[submodule "plugins/aerospike"]
+	path = plugins/aerospike
+	url = git@github.com:aerospike-labs/aerospike-server.boundary.git
