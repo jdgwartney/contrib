@@ -64,3 +64,6 @@
 [submodule "plugins/aerospike"]
 	path = plugins/aerospike
 	url = git@github.com:aerospike-labs/aerospike-server.boundary.git
+[submodule "plugins/couchdb"]
+	path = plugins/couchdb
+	url = https://github.com/boundary/boundary-plugin-couchdb
