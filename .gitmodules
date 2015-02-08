@@ -16,9 +16,6 @@
 [submodule "plugins/apache"]
 	path = plugins/apache
 	url = git@github.com:graphdat/plugin-apache.git
-[submodule "plugins/twitter-stream"]
-	path = plugins/twitter-stream
-	url = git@github.com:graphdat/plugin-twitter-stream.git
 [submodule "plugins/litespeed"]
 	path = plugins/litespeed
 	url = git@github.com:graphdat/plugin-litespeed.git
