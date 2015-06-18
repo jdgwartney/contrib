@@ -63,4 +63,4 @@
 	url = https://github.com/boundary/boundary-plugin-couchdb
 [submodule "plugins/plugin-repo-update"]
 	path = plugins/plugin-repo-update
-	url = git@github.com:graphdat/boundary-plugin-repository-update.git
+    url = git@github.com:boundary/boundary-plugin-repository-update.git
