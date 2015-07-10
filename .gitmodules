@@ -39,7 +39,7 @@
 	url = git@github.com:graphdat/plugin-httpcheck.git
 [submodule "plugins/pingcheck"]
 	path = plugins/pingcheck
-	url = git@github.com:graphdat/plugin-pingcheck.git
+	url = git@github.com:boundary/boundary-plugin-ping-check.git
 [submodule "plugins/forkrate"]
 	path = plugins/forkrate
 	url = git@github.com:graphdat/plugin-forkrate.git
