@@ -1,6 +1,6 @@
 [submodule "plugins/diskuse_summary"]
 	path = plugins/diskuse_summary
-	url = git@github.com:graphdat/plugin-diskuse_summary.git
+	url = git@github.com:boundary/boundary-plugin-disk-summary.git
 [submodule "plugins/redis"]
 	path = plugins/redis
 	url = git@github.com:boundary/boundary-plugin-redis.git
