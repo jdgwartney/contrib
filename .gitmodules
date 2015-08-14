@@ -12,7 +12,7 @@
 	url = git@github.com:graphdat/plugin-nginx
 [submodule "plugins/haproxy"]
 	path = plugins/haproxy
-	url = git@github.com:graphdat/plugin-haproxy.git
+	url = git@github.com:boundary/boundary-plugin-ha-proxy.git
 [submodule "plugins/apache"]
 	path = plugins/apache
 	url = git@github.com:graphdat/plugin-apache.git
