@@ -61,3 +61,6 @@
 [submodule "plugins/couchdb"]
 	path = plugins/couchdb
 	url = https://github.com/boundary/boundary-plugin-couchdb
+[submodule "plugins/elasticsearch"]
+	path = plugins/elasticsearch
+	url = https://github.com/boundary/boundary-plugin-elasticsearch
