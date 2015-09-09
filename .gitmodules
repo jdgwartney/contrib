@@ -24,7 +24,7 @@
 	url = git@github.com:graphdat/plugin-memcached.git
 [submodule "plugins/mysql"]
 	path = plugins/mysql
-	url = git@github.com:graphdat/plugin-mysql.git
+	url = git@github.com:boundary/boundary-plugin-mysql.git
 [submodule "plugins/process_memory"]
 	path = plugins/process_memory
 	url = git@github.com:graphdat/plugin-process_memory.git
