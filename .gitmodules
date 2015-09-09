@@ -36,7 +36,7 @@
 	url = git@github.com:graphdat/plugin-mongo.git
 [submodule "plugins/httpcheck"]
 	path = plugins/httpcheck
-	url = git@github.com:graphdat/plugin-httpcheck.git
+	url = git@github.com:boundary/boundary-plugin-http-check.git
 [submodule "plugins/pingcheck"]
 	path = plugins/pingcheck
 	url = git@github.com:boundary/boundary-plugin-ping-check.git
